@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobapphome.avtolowpenal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permisson.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="1d72297c9260954406800ecba9c822754caa3fee" />
+
+        <activity
+            android:name="com.mobapphome.avtolowpenal.avtolow.ActivityALStart"
+            android:label="@string/btn_txt_low" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.avtolow.ActivityALSearchRes"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.ActivityAbout"
+            android:label="@string/title_activity_about" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.ActivityMain"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoActionBarFullScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mobapphome.avtolowpenal.avtolow.ActivityALArticle"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.penal.ActivityPStart"
+            android:label="@string/btn_txt_penal" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.penal.ActivityPSubArt"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobapphome.avtolowpenal.penal.ActivityPSubArtInfo"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>

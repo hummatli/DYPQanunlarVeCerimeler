@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mah-ads-2.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mobapphome.library/mah-ads/2.0.4/93df1720f6ce60d885b55c2e57c4404ac8a4033c/mah-ads-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

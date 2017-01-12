@@ -1,0 +1,84 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->                     
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+ 
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+ 
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/colorAccent</item>
+ 
+        <!-- You can also set colorControlNormal, colorControlActivated
+             colorControlHighlight & colorSwitchThumbNormal. -->
+             
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        
+        <item name="searchViewStyle">@style/AppBaseTheme.SearchView</item>
+      	<item name="android:windowBackground">@color/main_background_color</item>
+        
+        <!-- item name="homeAsUpIndicator"> @drawable/ic_action_previous_item</item-->
+    </style>
+
+    <style name="AppBaseTheme.SearchView" parent="Widget.AppCompat.SearchView">
+    	<!-- item name="searchIcon">@drawable/ic_action_search</item-->
+    	<!-- item name="closeIcon">@drawable/ic_action_clear</item-->
+    </style>
+	
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+    </style>
+    
+     <style name="AppThemeNoActionBarFullScreenForSplash" parent="AppThemeNoActionBarFullScreen">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+     	<item name="android:windowBackground">@color/splash_background_color</item>
+    </style>
+    
+    <style name="AppThemeNoActionBarFullScreen" parent="AppTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+         <item name="android:windowNoTitle">true</item> <!-- Hides the Action Bar -->
+         <item name="android:windowFullscreen">true</item> <!-- Hides the status bar -->
+    </style>
+    
+    <style name="AppThemeNoActionBar" parent="AppTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+         <item name="android:windowNoTitle">true</item> <!-- Hides the Action Bar -->
+    </style>
+    
+    <style name="type_item_style">
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textColor">@color/type_item_color</item>
+         <item name="android:textSize">@dimen/item_type_txt_size</item>
+    </style>
+    <style name="sign_item_adapter_type_item_style">
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textColor">@color/action_bar_menu_text_color</item>
+        <item name="android:textSize">@dimen/item_sige_adapter_type_txt_size</item>
+    </style>
+    <style name="sign_item_style">
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textColor">@color/sign_item_text_color</item>
+        <item name="android:textSize">@dimen/item_sign_txt_size</item>
+    </style>
+       
+    <style name="about_text_style">
+         <item name="android:textColor">#055295</item>
+         <item name="android:textSize">@dimen/about_txt_size</item>
+    </style>
+</resources>

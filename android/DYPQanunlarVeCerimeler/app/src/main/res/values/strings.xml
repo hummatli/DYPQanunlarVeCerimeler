@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DYP Qanunlar və Cərimələr</string>
+    <string name="splash_info">\"Yol Hərəkəti Haqqında\" qanun \nvə Cərimələr</string>
+    <string name="action_search">Axtar</string>
+    <string name="action_about">Haqqında</string>
+    <string name="action_settings">Sazlamalar</string>
+    <string name="search_hint">Sözü axtarın</string>
+    <string name="title_activity_about">Haqqında</string>
+    <string name="text_about"> Bu proqram Azərbaycan Respublikasının "Yol Hərəkəti Haqqında" qanunu və 
+        "İnzibati Xətalar Məcəlləsi"-nin yol hərəkətinə aid bütün maddələrini əks etdirir.
+        Proqram vasitəsi ilə yol hərəkəti haqqında bütün qanunları və cərimələri öyrənmək olar\n\nSiz
+        istədiyiniz sözə görə qanunlar daxilində axtarış apara bilərsini. </string>
+    
+    <string name="btn_txt_low">\"Yol Hərəkəti Haqqında\" \nqanun</string>
+    <string name="btn_txt_penal">Cərimələr</string>
+    <string name="btn_txt_outer_penal">Cəriməni öyrən</string>
+    
+</resources>

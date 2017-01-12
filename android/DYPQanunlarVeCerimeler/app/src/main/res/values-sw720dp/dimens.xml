@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="general_padding_half">12dp</dimen>
+    <dimen name="general_padding">24dp</dimen>
+    <dimen name="general_padding_large">36dp</dimen>
+
+    <dimen name="splash_items_padding">30dp</dimen>
+    <dimen name="itm_sign_img_width_height">100dp</dimen>
+
+    <dimen name="start_btn_height">140dp</dimen>
+    <dimen name="start_btn_padding">24dp</dimen>
+    <dimen name="start_btn_margin">13dp</dimen>
+
+    <dimen name="start_btn_txt_size">28sp</dimen>
+
+    <!--Text sizes-->
+    <dimen name="about_txt_size">30sp</dimen>
+    <dimen name="splash_txt_size">50sp</dimen>
+    <dimen name="item_sign_txt_size">25sp</dimen>
+    <dimen name="item_sige_adapter_type_txt_size">31sp</dimen>
+    <dimen name="item_type_txt_size">33sp</dimen>
+
+    <dimen name="txt_size_small">25sp</dimen>
+    <dimen name="txt_size_middle">27sp</dimen>
+    <dimen name="txt_size_large">29sp</dimen>
+
+</resources>

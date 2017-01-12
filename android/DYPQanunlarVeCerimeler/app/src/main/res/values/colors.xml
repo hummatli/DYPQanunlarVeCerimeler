@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF131b90</color>
+    <color name="colorPrimaryDark">#FF0f1675</color>
+    <color name="colorAccent">#FFFF0000</color>
+    
+	<color name="action_bar_color_custom">#FF131b90</color>
+	<color name="action_bar_menu_text_color">#FFFFFFFF</color>
+	<color name="action_bar_menu_hint_text_color">#FFDEDEDE</color>
+	<color name="sign_item_text_color">#FF000000</color>
+		
+	<color name="btn_light_text_color">#FFf8f8fd</color>						
+	<color name="btn_dark_color">#FF3944c7</color>						
+	<color name="btn_light_color">#FF7983ff</color>		
+	<color name="type_item_background_start_color">#FF1e2bb6</color>
+	<color name="type_item_background_center_color">#FF1e2bb6</color>
+	<color name="type_item_background_end_color">#FF1e2bb6</color>
+	
+	<color name="main_background_color">#FFf2f2f2</color>
+	<color name="splash_background_color">#FFcdcdcc</color>
+
+
+
+	<!-- ========================= MAHAds  =========================-->
+	<color name="mah_ads_window_background_color">#FFFFFFFF</color>
+	<color name="mah_ads_title_bar_color">#FF131b90</color>
+	<!--new--> <color name="mah_ads_title_bar_text_color">#ffffff</color>
+	<color name="mah_ads_colorAccent">#FFFF4081</color>
+
+	<color name="mah_ads_all_and_btn_text_color">#1422d7</color>
+	<!--new--> <color name="mah_ads_no_image_color">#202dd7</color>
+	<!--new--> <color name="mah_ads_program_item_desc_text_color">#3744f9</color>
+	<color name="mah_ads_question_txt_color">#121db7</color>
+	<color name="mah_ads_yes_no_txt_color">#FFFF4081</color>
+
+	<color name="mah_ads_btn_other_border_color">#3744f9</color>
+	<color name="mah_ads_btn_background_color_pressed">#333744f9</color>
+
+	<color name="mah_ads_text_view_new_background_color">#FF0000</color>
+	<color name="mah_ads_text_view_new_text_color">#FFFFFFFF</color>
+	<color name="mah_ads_no_img_color">#333944c7</color>
+
+
+	<!-- ========================= MAHAndroidUpdater =========================-->
+	<color name="mah_android_upd_window_background_color">#FFFFFFFF</color>
+	<color name="mah_android_upd_title_bar_color">#FF131b90</color>
+	<color name="mah_android_upd_info_txt_color">#FF121db7</color>
+
+	<color name="mah_android_upd_restricter_dlg_btn_pressed_color">#a3121db7</color>
+	<color name="mah_android_upd_restricter_dlg_btn_dark_state_color">#ff121db7</color>
+	<color name="mah_android_upd_restricter_dlg_btn_light_state_color">#ffffffff</color>
+
+	<color name="mah_android_upd_upd_dlg_btn_text_color">#ffFF4081</color>
+
+
+</resources>

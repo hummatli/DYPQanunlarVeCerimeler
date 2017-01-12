@@ -1,0 +1,1527 @@
+[
+    {
+        "outputFile": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 104,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 104,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 107,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 107,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 122,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 122,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 97,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 97,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 111,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 111,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 85,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 85,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 104,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 104,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 114,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 114,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 76,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 76,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 75,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 75,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 81,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 81,
+                        "endOffset": 1137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 110,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endColumn": 110,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endColumn": 102,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 102,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 98,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 98,
+                        "endOffset": 1450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 110,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1455,
+                        "endColumn": 110,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 101,
+                    "endOffset": 1713
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 101,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1718,
+                    "endColumn": 106,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 106,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1825,
+                    "endColumn": 121,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 121,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 101,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1897,
+                        "endColumn": 101,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 76,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 72,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 110,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 106,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 195,
+                    "endOffset": 2428
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 390,
+                        "endColumn": 195,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2433,
+                    "endColumn": 129,
+                    "endOffset": 2558
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 586,
+                        "endColumn": 125,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2563,
+                    "endColumn": 113,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 712,
+                        "endColumn": 109,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endColumn": 236,
+                    "endOffset": 2909
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 822,
+                        "endColumn": 236,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2914,
+                    "endColumn": 132,
+                    "endOffset": 3042
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1059,
+                        "endColumn": 128,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3047,
+                    "endColumn": 147,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1188,
+                        "endColumn": 143,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3195,
+                    "endColumn": 203,
+                    "endOffset": 3394
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 203,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3399,
+                    "endColumn": 238,
+                    "endOffset": 3633
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1332,
+                        "endColumn": 238,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3638,
+                    "endColumn": 113,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1571,
+                        "endColumn": 109,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endColumn": 199,
+                    "endOffset": 3947
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1681,
+                        "endColumn": 199,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3952,
+                    "endColumn": 132,
+                    "endOffset": 4080
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1881,
+                        "endColumn": 128,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4085,
+                    "endColumn": 220,
+                    "endOffset": 4301
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 2010,
+                        "endColumn": 220,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4306,
+                    "endColumn": 205,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2231,
+                        "endColumn": 201,
+                        "endOffset": 2432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 100,
+                    "endOffset": 4608
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2433,
+                        "endColumn": 96,
+                        "endOffset": 2529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4613,
+                    "endColumn": 92,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2530,
+                        "endColumn": 88,
+                        "endOffset": 2618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endColumn": 108,
+                    "endOffset": 4810
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2619,
+                        "endColumn": 104,
+                        "endOffset": 2723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4815,
+                    "endColumn": 134,
+                    "endOffset": 4945
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 310,
+                        "endColumn": 130,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4950,
+                    "endColumn": 104,
+                    "endOffset": 5050
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 441,
+                        "endColumn": 100,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5055,
+                    "endColumn": 109,
+                    "endOffset": 5160
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 542,
+                        "endColumn": 105,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5165,
+                    "endColumn": 103,
+                    "endOffset": 5264
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 648,
+                        "endColumn": 99,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5269,
+                    "endColumn": 105,
+                    "endOffset": 5370
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 748,
+                        "endColumn": 101,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5375,
+                    "endColumn": 99,
+                    "endOffset": 5470
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 850,
+                        "endColumn": 95,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5475,
+                    "endColumn": 74,
+                    "endOffset": 5545
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 946,
+                        "endColumn": 70,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5550,
+                    "endColumn": 47,
+                    "endOffset": 5593
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5598,
+                    "endColumn": 72,
+                    "endOffset": 5666
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 72,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5671,
+                    "endColumn": 68,
+                    "endOffset": 5735
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 68,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5740,
+                    "endColumn": 65,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 65,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 66,
+                    "endOffset": 5868
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 66,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5873,
+                    "endColumn": 71,
+                    "endOffset": 5940
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 71,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5945,
+                    "endColumn": 57,
+                    "endOffset": 5998
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 57,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6003,
+                    "endColumn": 69,
+                    "endOffset": 6068
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 69,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6073,
+                    "endColumn": 66,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 66,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 56,
+                    "endOffset": 6192
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 56,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6197,
+                    "endColumn": 59,
+                    "endOffset": 6252
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 59,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6257,
+                    "endColumn": 112,
+                    "endOffset": 6365
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 112,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6370,
+                    "endColumn": 48,
+                    "endOffset": 6414
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 48,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6419,
+                    "endColumn": 53,
+                    "endOffset": 6468
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 53,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6473,
+                    "endColumn": 110,
+                    "endOffset": 6579
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 110,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6584,
+                    "endColumn": 53,
+                    "endOffset": 6633
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 53,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6638,
+                    "endColumn": 71,
+                    "endOffset": 6705
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 71,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6710,
+                    "endColumn": 56,
+                    "endOffset": 6762
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-ads/2.0.4/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 56,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6767,
+                    "endColumn": 70,
+                    "endOffset": 6833
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6838,
+                    "endColumn": 70,
+                    "endOffset": 6904
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6909,
+                    "endColumn": 86,
+                    "endOffset": 6991
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 86,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6996,
+                    "endColumn": 75,
+                    "endOffset": 7067
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 75,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7072,
+                    "endColumn": 85,
+                    "endOffset": 7153
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 85,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7158,
+                    "endColumn": 73,
+                    "endOffset": 7227
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 73,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7232,
+                    "endColumn": 65,
+                    "endOffset": 7293
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 65,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7298,
+                    "endColumn": 85,
+                    "endOffset": 7379
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 85,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7384,
+                    "endColumn": 96,
+                    "endOffset": 7476
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 96,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7481,
+                    "endColumn": 181,
+                    "endOffset": 7658
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 181,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7663,
+                    "endColumn": 144,
+                    "endOffset": 7803
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 144,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7808,
+                    "endColumn": 136,
+                    "endOffset": 7940
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 136,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7945,
+                    "endColumn": 131,
+                    "endOffset": 8072
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 131,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8077,
+                    "endColumn": 117,
+                    "endOffset": 8190
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.mobapphome.library/mah-android-updater/1.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1365,
+                        "endColumn": 117,
+                        "endOffset": 1478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8195,
+                    "endColumn": 81,
+                    "endOffset": 8272
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 81,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8277,
+                    "endColumn": 100,
+                    "endOffset": 8373
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/values-de/values-de.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 100,
+                        "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8378,
+                    "endColumn": 141,
+                    "endOffset": 8515
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1017,
+                        "endColumn": 137,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8520,
+                    "endColumn": 92,
+                    "endOffset": 8608
+                },
+                "from": {
+                    "file": "/Volumes/Disk_2/projects/private_projects/DYPQanunlarVeCerimeler/android/DYPQanunlarVeCerimeler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res/values-de/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1155,
+                        "endColumn": 88,
+                        "endOffset": 1243
+                    }
+                }
+            }
+        ]
+    }
+]

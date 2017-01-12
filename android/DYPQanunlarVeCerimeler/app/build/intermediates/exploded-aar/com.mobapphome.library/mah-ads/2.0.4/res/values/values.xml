@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mah_ads_all_and_btn_text_color">#FF3F51B5</color>
+    <color name="mah_ads_btn_background_color_pressed">#333F51B5</color>
+    <color name="mah_ads_btn_other_border_color">#848ed2</color>
+    <color name="mah_ads_colorAccent">#FFFF4081</color>
+    <color name="mah_ads_no_image_color">#3F51B5</color>
+    <color name="mah_ads_no_img_color">#333F51B5</color>
+    <color name="mah_ads_program_item_desc_text_color">#4a76e6</color>
+    <color name="mah_ads_question_txt_color">#FF3F51B5</color>
+    <color name="mah_ads_text_view_new_background_color">#FF0000</color>
+    <color name="mah_ads_text_view_new_text_color">#FFFFFFFF</color>
+    <color name="mah_ads_title_bar_color">#FF3F51B5</color>
+    <color name="mah_ads_title_bar_text_color">#ffffff</color>
+    <color name="mah_ads_window_background_color">#FFFFFFFF</color>
+    <color name="mah_ads_yes_no_txt_color">#FFFF4081</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">MAHAds</string>
+    <string name="mah_ads_close">Close</string>
+    <string name="mah_ads_dlg_exit_btn_more_txt_1">Applications</string>
+    <string name="mah_ads_dlg_exit_btn_more_txt_2">Detailed</string>
+    <string name="mah_ads_dlg_exit_negativ_btn_txt">Stay</string>
+    <string name="mah_ads_dlg_exit_positive_btn_txt">Exit</string>
+    <string name="mah_ads_dlg_exit_question">Do you want exit?</string>
+    <string name="mah_ads_dlg_title">Recommended</string>
+    <string name="mah_ads_free_aps">Recommended applications</string>
+    <string name="mah_ads_info_popup_text">MAHAds library</string>
+    <string name="mah_ads_info_version">Version</string>
+    <string name="mah_ads_install_program">Install</string>
+    <string name="mah_ads_internet_update_error">Error, please check internet connection and try again.</string>
+    <string name="mah_ads_new_text">New</string>
+    <string name="mah_ads_open_program">Open</string>
+    <string name="mah_ads_play_service_not_found">Install Google Play Services to install application</string>
+    <string name="mah_ads_refresh_btn">Retry</string>
+    <string name="mah_ads_text_google_play">Open in GooglePlay</string>
+    <string name="mah_ads_updated_text">Updated</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+		<!-- Customize your theme here. -->
+	</style>
+    <style name="MAHAdsDialogAnimation">
+		<item name="android:windowEnterAnimation">@anim/mah_a1_fade_in_scale</item>
+		<item name="android:windowExitAnimation">@anim/mah_a1_fade_out_scale</item>
+	</style>
+    <style name="MAHAdsDlgExit" parent="AppTheme">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">false</item>
+		<item name="android:windowIsFloating">true</item>
+	</style>
+    <style name="MAHAdsDlgPrograms" parent="AppTheme">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">false</item>
+		<item name="android:windowIsFloating">true</item>
+	</style>
+</resources>

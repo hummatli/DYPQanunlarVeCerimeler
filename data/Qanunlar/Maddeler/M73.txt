@@ -1,0 +1,406 @@
+﻿<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";color:#0070C0;
+mso-ansi-language:EN-US'>Madd&#601; 73. N&#601;qliyyat vasit&#601;sinin
+sürücüsü t&#601;r&#601;find&#601;n s&#601;s siqnallar&#305; v&#601; xarici
+i&#351;&#305;q cihazlar&#305;ndan istifad&#601; edilm&#601;si <o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-family:"Tahoma","sans-serif";
+color:#3C3C3C;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>I.</span></i></b><span style='font-family:
+"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'> </span><span
+style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:EN-US'>T&#601;hlük&#601;nin
+v&#601; ya h&#601;r&#601;k&#601;td&#601; olan mane&#601;l&#601;rin aradan
+qald&#305;r&#305;lmas&#305; m&#601;qs&#601;dil&#601; n&#601;qliyyat vasit&#601;l&#601;rinin
+sürücül&#601;ri fara i&#351;&#305;qlar&#305;ndan, bu v&#601; ya dig&#601;r
+istiqam&#601;t&#601; dönm&#601; i&#351;&#305;q göst&#601;ricil&#601;rind&#601;n,
+s&#601;s siqnallar&#305;ndan v&#601; ya &#601;l i&#351;ar&#601;sind&#601;n
+istifad&#601; edirl&#601;r.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>II.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Yuxar&#305;da göst&#601;ril&#601;n vasit&#601;l&#601;rl&#601; s&#601;s v&#601;
+i&#351;&#305;q siqnallar&#305;n&#305;n verilm&#601;si, n&#601;qliyyat vasit&#601;l&#601;rinin
+sürücül&#601;rini sür&#601;ti azaltmaq v&#601; yol-n&#601;qliyyat hadis&#601;sinin
+qar&#351;&#305;s&#305;n&#305; almaq üçün bütün dig&#601;r z&#601;ruri t&#601;dbirl&#601;ri
+görm&#601;k v&#601;zif&#601;sind&#601;n azad etmir.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>III.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Sutkan&#305;n qaranl&#305;q vaxt&#305; v&#601; ya m&#601;hdudiyy&#601;tli
+görünm&#601; &#351;&#601;raitind&#601;, habel&#601; tunell&#601;rd&#601; h&#601;r&#601;k&#601;td&#601;
+olan n&#601;qliyyat vasit&#601;l&#601;rind&#601; v&#601; qo&#351;qularda
+i&#351;&#305;q cihazlar&#305; v&#601; i&#351;&#305;q siqnallar&#305;
+a&#351;a&#287;&#305;dak&#305; qaydada yand&#305;r&#305;lmal&#305;d&#305;r:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>t&#601;chizat&#305;ndan as&#305;l&#305; olaraq n&#601;qliyyat vasit&#601;l&#601;rind&#601;
+- faralar&#305;n yax&#305;n v&#601; ya uzaq i&#351;&#305;qlar&#305; v&#601;
+arxa qabarit i&#351;&#305;qlar&#305;, velosipedl&#601;rd&#601; - faralar v&#601;
+ya f&#601;n&#601;rl&#601;r, at arabalar&#305;nda - f&#601;n&#601;rl&#601;r .;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>qo&#351;qularda v&#601; yed&#601;y&#601; al&#305;nan n&#601;qliyyat
+vasit&#601;l&#601;rind&#601; - qabarit i&#351;&#305;qlar&#305;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>IV.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:black;mso-themecolor:
+text1;mso-ansi-language:EN-US'>Uzaq i&#351;&#305;q yax&#305;n
+i&#351;&#305;&#287;a:</span><span style='font-family:"Tahoma","sans-serif";
+color:#3C3C3C;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601; yol kifay&#601;t
+q&#601;d&#601;r i&#351;&#305;qland&#305;r&#305;ld&#305;qda v&#601;
+ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601;n k&#601;narda, &#601;g&#601;r
+yolun h&#601;r&#601;k&#601;t hiss&#601;si yol boyu
+i&#351;&#305;qlanm&#305;&#351;d&#305;rsa v&#601; &#601;g&#601;r h&#601;min
+i&#351;&#305;qland&#305;rma sürücüy&#601; kifay&#601;t q&#601;d&#601;r m&#601;saf&#601;d&#601;
+görm&#601;k imkan&#305; verirs&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>sürücünün gözl&#601;rini qama&#351;d&#305;rmamaq m&#601;qs&#601;di il&#601;
+qar&#351;&#305;dan g&#601;l&#601;n n&#601;qliyyat vasit&#601;sin&#601; az&#305;
+150 metr qalm&#305;&#351;sa;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>3)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>yol h&#601;r&#601;k&#601;tinin dig&#601;r
+i&#351;tirakç&#305;lar&#305;n&#305;n gözl&#601;rini qama&#351;d&#305;ra bil&#601;n
+h&#601;r hans&#305; dig&#601;r hallarda keçirilm&#601;lidir. Gözü
+qama&#351;d&#305;qda sürücü q&#601;za i&#351;&#305;q siqnal&#305;n&#305;
+qo&#351;mal&#305; v&#601; h&#601;r&#601;k&#601;t zola&#287;&#305;n&#305; d&#601;yi&#351;m&#601;d&#601;n
+sür&#601;ti azaltmaqla n&#601;qliyyat vasit&#601;sini
+dayand&#305;rmal&#305;d&#305;r;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>4)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>ir&#601;lid&#601; h&#601;r&#601;k&#601;t ed&#601;n n&#601;qliyyat vasit&#601;sind&#601;n
+yax&#305;n m&#601;saf&#601;d&#601; h&#601;r&#601;k&#601;t etdikd&#601;, ötm&#601;zd&#601;n
+&#601;vv&#601;l q&#305;sa müdd&#601;t&#601; faralar&#305;n uzaq
+i&#351;&#305;&#287;&#305;n&#305; yand&#305;rmaqla x&#601;b&#601;rdarl&#305;q
+i&#351;&#305;q siqnal&#305; verm&#601;k olar.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>V.</span></i></b><span style='font-family:
+"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'> </span><span
+style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:EN-US'>Sutkan&#305;n
+i&#351;&#305;ql&#305; vaxt&#305;nda h&#601;r&#601;k&#601;t ed&#601;n n&#601;qliyyat
+vasit&#601;sini göst&#601;rm&#601;k m&#601;qs&#601;dil&#601;
+a&#351;a&#287;&#305;dak&#305; n&#601;qliyyat vasit&#601;l&#601;rind&#601;
+faran&#305;n yax&#305;n i&#351;&#305;qlar&#305;
+yand&#305;r&#305;lmal&#305;d&#305;r:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>motosiklet v&#601; mopedl&#601;rd&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>u&#351;aq d&#601;st&#601;l&#601;rini da&#351;&#305;yan avtobus v&#601;
+mikroavtobuslarda;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>3)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>müt&#601;&#351;&#601;kkil n&#601;qliyyat d&#601;st&#601;sind&#601; h&#601;r&#601;k&#601;t
+ed&#601;n n&#601;qliyyat vasit&#601;l&#601;rind&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>4)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>dig&#601;r n&#601;qliyyat vasit&#601;l&#601;rini yed&#601;y&#601; alan n&#601;qliyyat
+vasit&#601;l&#601;rind&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>5)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>t&#601;hlük&#601;li, a&#287;&#305;r ç&#601;kili v&#601; iri qabaritli
+yük da&#351;&#305;yan n&#601;qliyyat vasit&#601;l&#601;rind&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>6)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>xüsusi olaraq ayr&#305;lm&#305;&#351; zolaqla n&#601;qliyyat vasit&#601;l&#601;rinin
+ax&#305;n&#305;na qar&#351;&#305; h&#601;r&#601;k&#601;t ed&#601;n ümumi
+istifad&#601;d&#601; olan n&#601;qliyyat vasit&#601;l&#601;rind&#601;.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>V-I.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Duman faralar&#305;ndan a&#351;a&#287;&#305;dak&#305; hallarda istifad&#601;
+oluna bil&#601;r:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>m&#601;hdudiyy&#601;tli görünm&#601; &#351;&#601;raitind&#601; - h&#601;m
+ayr&#305;ca, h&#601;m d&#601; faran&#305;n yax&#305;n v&#601; ya uzaq
+i&#351;&#305;qlar&#305; il&#601; birlikd&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>sutkan&#305;n qaranl&#305;q vaxt&#305; yolun
+i&#351;&#305;qland&#305;r&#305;lmam&#305;&#351; sah&#601;l&#601;rind&#601; -
+faralar&#305;n yax&#305;n v&#601; uzaq i&#351;&#305;qlar&#305; il&#601; birlikd&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>3)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>bu Qanunun 73-cü madd&#601;sinin V hiss&#601;sind&#601; n&#601;z&#601;rd&#601;
+tutulmu&#351; hallarda müvafiq n&#601;qliyyat vasit&#601;l&#601;rind&#601;
+faran&#305;n yax&#305;n i&#351;&#305;qlar&#305;n&#305;n &#601;v&#601;zin&#601;.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-family:"Tahoma","sans-serif";
+color:red;mso-ansi-language:EN-US'>Qeyd: </span><span style='font-family:"Tahoma","sans-serif";
+color:#3C3C3C;mso-ansi-language:EN-US'>Duman faralar&#305;ndan
+a&#351;a&#287;&#305;dak&#305; hallarda istifad&#601; oluna bil&#601;r: 1) m&#601;hdud
+görünm&#601; &#351;&#601;raitind&#601; - h&#601;m ayr&#305;ca, h&#601;m d&#601;
+faran&#305;n yax&#305;n v&#601; ya uzaq i&#351;&#305;qlar&#305; il&#601;
+birlikd&#601;; 2) sutkan&#305;n qaranl&#305;q vaxt&#305; yolun
+i&#351;&#305;qland&#305;r&#305;lmam&#305;&#351; sah&#601;l&#601;rind&#601; -
+faralar&#305;n yax&#305;n v&#601; uzaq i&#351;&#305;qlar&#305; il&#601; birlikd&#601;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>VI.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Sutkan&#305;n qaranl&#305;q vaxt&#305; yolun
+i&#351;&#305;qland&#305;r&#305;lmayan sah&#601;sind&#601;, habel&#601; m&#601;hdudiyy&#601;tli
+görünm&#601; &#351;&#601;raitind&#601; dayanark&#601;n v&#601; durark&#601;n n&#601;qliyyat
+vasit&#601;sind&#601; v&#601; avtoqatarda qabarit v&#601; ya dayanacaq
+i&#351;&#305;qlar&#305; yand&#305;r&#305;lmal&#305;d&#305;r. &#399;g&#601;r
+qabarit i&#351;&#305;qlar&#305; nasazd&#305;rsa, n&#601;qliyyat vasit&#601;si
+yoldan k&#601;nara ç&#305;xar&#305;lmal&#305;, bu mümkün olmad&#305;qda is&#601;
+o, q&#601;za dayanma ni&#351;an&#305; il&#601; bu Qanunun t&#601;l&#601;bin&#601;
+uy&#287;un i&#351;ar&#601;l&#601;nm&#601;lidir. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>VII.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Qat&#305; duman &#351;&#601;raitind&#601;, güclü qar v&#601;
+ya&#287;&#305;&#351; ya&#287;anda, yaxud buna uy&#287;un dig&#601;r &#351;&#601;raitd&#601;,
+h&#601;mçinin faran&#305;n yax&#305;n i&#351;&#305;qlar&#305; v&#601; ya duman
+faralar&#305; v&#601; dumana qar&#351;&#305; f&#601;n&#601;rl&#601;r
+yand&#305;rala bil&#601;r.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-family:"Tahoma","sans-serif";
+color:red;mso-ansi-language:EN-US'>Qeyd: </span><span style='font-family:"Tahoma","sans-serif";
+color:#3C3C3C;mso-ansi-language:EN-US'>Yuxar&#305;da göst&#601;ril&#601;n
+hallar istisna olmaqla, n&#601;qliyyat vasit&#601;l&#601;ri i&#351;&#305;q v&#601;
+s&#601;s siqnallar&#305; söndürülmü&#351; v&#601;ziyy&#601;td&#601;
+a&#351;a&#287;&#305;dak&#305; hallarda duracaqda dayana bil&#601;r:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>i&#351;&#305;qland&#305;r&#305;lm&#305;&#351; yollarda n&#601;qliyyat
+vasit&#601;si kifay&#601;t q&#601;d&#601;r m&#601;saf&#601;d&#601;n ayd&#305;n
+göründükd&#601;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>yolun h&#601;r&#601;k&#601;t hiss&#601;sinin k&#601;nar&#305;ndan
+aral&#305; saxland&#305;qda;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>3)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>akkumulyatorla t&#601;chiz olunmam&#305;&#351; motosikletl&#601;r ya&#351;ay&#305;&#351;
+m&#601;nt&#601;q&#601;sind&#601; yolun h&#601;r&#601;k&#601;t hiss&#601;sinin
+q&#305;ra&#287;&#305;nda
+saxland&#305;qda;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>4)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601; h&#601;r&#601;k&#601;t
+g&#601;rginliyi az olan küç&#601;l&#601;rd&#601;.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>VIII.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Projektor-faradan v&#601; axtar&#305;c&#305;-faradan yaln&#305;z
+ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601;n k&#601;narda,
+qar&#351;&#305;dan n&#601;qliyyat vasit&#601;l&#601;ri g&#601;lm&#601;dikd&#601;
+istifad&#601; etm&#601;y&#601; icaz&#601; verilir. Ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601;
+bel&#601; faralardan yaln&#305;z operativ v&#601; xüsusi xidm&#601;t n&#601;qliyyat
+vasit&#601;l&#601;rinin sürücül&#601;ri xidm&#601;ti
+tap&#351;&#305;r&#305;&#287;&#305; yerin&#601; yetir&#601;rk&#601;n istifad&#601;
+ed&#601; bil&#601;rl&#601;r.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>IX.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Arxa duman f&#601;n&#601;rl&#601;rind&#601;n yaln&#305;z m&#601;hdudiyy&#601;tli
+görünm&#601; &#351;&#601;raitind&#601; istifad&#601; edil&#601; bil&#601;r.
+Arxa duman f&#601;n&#601;rl&#601;rini stop-siqnallara qo&#351;maq
+qada&#287;and&#305;r.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>X.</span></i></b><span style='font-family:
+"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'> </span><span
+style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:EN-US'>“Avtoqatar”
+tan&#305;nma ni&#351;an&#305; avtoqatar h&#601;r&#601;k&#601;t etdiyi,
+sutkan&#305;n qaranl&#305;q vaxt&#305; v&#601; ya m&#601;hdudiyy&#601;tli
+görünm&#601; &#351;&#601;raitind&#601; is&#601;, h&#601;m d&#601;
+dayand&#305;&#287;&#305; v&#601; ya durdu&#287;u müdd&#601;td&#601;
+yanmal&#305;d&#305;r.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>XI.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>S&#601;s siqnallar&#305;ndan yaln&#305;z a&#351;a&#287;&#305;dak&#305;
+hallarda istifad&#601; oluna bil&#601;r:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>1)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>ya&#351;ay&#305;&#351; m&#601;nt&#601;q&#601;l&#601;rind&#601;n k&#601;narda
+ötm&#601; niyy&#601;ti haqq&#305;nda ba&#351;qa sürücül&#601;ri x&#601;b&#601;rdar
+etm&#601;k üçün z&#601;ruri olan hallarda;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>2)</span></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>yol-n&#601;qliyyat hadis&#601;sinin qar&#351;&#305;s&#305;n&#305; almaq
+üçün.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><b style='mso-bidi-font-weight:normal'><i
+style='mso-bidi-font-style:normal'><span style='font-family:"Tahoma","sans-serif";
+color:#0070C0;mso-ansi-language:EN-US'>XII.</span></i></b><span
+style='font-family:"Tahoma","sans-serif";color:#0070C0;mso-ansi-language:EN-US'>
+</span><span style='font-family:"Tahoma","sans-serif";color:#3C3C3C;mso-ansi-language:
+EN-US'>Ötm&#601; bar&#601;d&#601; x&#601;b&#601;rdarl&#305;q etm&#601;k üçün s&#601;s
+siqnal&#305; &#601;v&#601;zin&#601; (v&#601; ya onunla birlikd&#601;)
+i&#351;&#305;q siqnal&#305; veril&#601; bil&#601;r. Bu i&#351;&#305;q
+siqnal&#305; sutkan&#305;n i&#351;&#305;ql&#305; vaxt&#305; - faralar&#305;n
+i&#351;&#305;qlar&#305;n&#305; q&#305;samüdd&#601;tli
+yand&#305;r&#305;b-söndürm&#601;kd&#601;n, sutkan&#305;n qaranl&#305;q
+vaxt&#305; is&#601; faralar&#305;n yax&#305;n i&#351;&#305;&#287;&#305;n&#305;
+d&#601;f&#601;l&#601;rl&#601; uzaq i&#351;&#305;&#287;a keçirm&#601;kd&#601;n
+ibar&#601;tdir.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none'><span style='font-family:"Tahoma","sans-serif";
+color:#3C3C3C;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

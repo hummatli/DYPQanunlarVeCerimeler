@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="2000dp"
+    android:minWidth="2000dp"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/mah_dlg_main_lyt_shape"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mah_dlg_title_lyt_shape"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp">
+
+
+            <ImageButton
+                android:id="@+id/mah_ads_dlg_programs_btnCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:paddingBottom="4dp"
+                android:paddingLeft="8dp"
+                android:paddingRight="2dp"
+                android:paddingTop="4dp"
+                android:src="@drawable/ic_mah_cancel" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingBottom="0dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp"
+                android:text="@string/mah_ads_dlg_title"
+                android:textColor="@android:color/white"
+                android:textSize="19sp"
+                android:ellipsize="end"
+                android:maxLines="1"/>
+
+
+            <ImageButton
+                android:id="@+id/mah_ads_dlg_programs_btnInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:paddingBottom="4dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="8dp"
+                android:paddingTop="4dp"
+                android:src="@drawable/ic_mah_info" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/lytLoadingMahAds"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivLoadingMahAds"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_loading_mah" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lytErrorMAHAds"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:id="@+id/tvErrorResultMAHAds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Result"
+                    android:textColor="@color/mah_ads_colorAccent"
+                    android:textSize="18sp"
+                    android:layout_marginBottom="10dp"/>
+                <Button
+                    android:id="@+id/btnErrorRefreshMAHAds"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/mah_dlg_btn_other_selector"
+                    android:gravity="center"
+                    android:text="@string/mah_ads_refresh_btn"
+                    android:textColor="@color/mah_ads_all_and_btn_text_color"
+                    android:textSize="18sp"
+                    android:minHeight="10dp"
+                    android:minWidth="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    style="@style/Widget.AppCompat.ActionButton"/>
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/lstMahAds"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="end"
+            android:paddingTop="2dp"
+            android:paddingBottom="10dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp">
+
+            <Button
+                android:id="@+id/mah_ads_dlg_programs_btn_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+                android:text="@string/mah_ads_close"
+                android:textColor="@color/mah_ads_yes_no_txt_color"
+                android:textSize="17sp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

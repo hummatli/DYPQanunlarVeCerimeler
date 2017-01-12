@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+	
+	<!-- Pressing down on a view -->
+	<item android:state_pressed="true" android:color="#707070"/>
+	
+	<!-- A view is highlighted, such as in a list -->
+    <item android:state_selected="true" android:color="#707070"/>
+
+	<!-- Regular text (not selected) -->
+    <item android:color="#FFFFFF"/>
+    
+</selector>
+
