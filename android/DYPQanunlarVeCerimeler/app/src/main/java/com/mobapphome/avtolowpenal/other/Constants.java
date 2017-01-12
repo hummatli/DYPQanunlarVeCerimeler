@@ -13,7 +13,7 @@ public class Constants {
 	public final static String DB_NAME = "icons";
 
 
-	public final static int INTERSTITAIL_FREE_STEPS_MAIN = 4;
+	public final static int INTERSTITAIL_FREE_STEPS_MAIN = 5;
 	final public static String COLOR_FOR_TEXT_CODE = "#3944c7";
 
 }
