@@ -12,7 +12,7 @@
         android:id="@+id/LinearLayout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/sign_item_adapter_type_item_background"
+        android:background="@drawable/sign_item_adapter_type_item_background"
         android:baselineAligned="false"
         android:gravity="center_horizontal"
         android:orientation="horizontal"

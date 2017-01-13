@@ -12,7 +12,9 @@
     <dimen name="start_btn_padding">24dp</dimen>
     <dimen name="start_btn_margin">13dp</dimen>
 
-    <dimen name="start_btn_txt_size">28sp</dimen>
+
+    <dimen name="btn_main_corner_radius">24dp</dimen>
+
 
     <!--Text sizes-->
     <dimen name="about_txt_size">30sp</dimen>
@@ -24,5 +26,7 @@
     <dimen name="txt_size_small">25sp</dimen>
     <dimen name="txt_size_middle">27sp</dimen>
     <dimen name="txt_size_large">29sp</dimen>
+
+    <dimen name="start_btn_txt_size">28sp</dimen>
 
 </resources>

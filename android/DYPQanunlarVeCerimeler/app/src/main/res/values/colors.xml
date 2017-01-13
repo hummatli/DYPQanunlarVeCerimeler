@@ -18,7 +18,14 @@
 	
 	<color name="main_background_color">#FFf2f2f2</color>
 	<color name="splash_background_color">#FFcdcdcc</color>
+	<color name="splash_start_color">#FF9d9d9c</color>
+	<color name="splash_end_color">#FFf2f2f2</color>
 
+	<color name="main_btn_start_color">#FF131b90</color>
+	<color name="main_btn_end_color">#2530ce</color>
+
+	<color name="main_btn_start_color_pressed">#2732d1</color>
+	<color name="main_btn_end_color_pressed">#3844f2</color>
 
 
 	<!-- ========================= MAHAds  =========================-->
