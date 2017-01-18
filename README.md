@@ -39,7 +39,7 @@
 
 ## Sample App in PlayStore
 <a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal">DYP Qanunlar ve Cerimeler</a> app has published on Google PlayStore. You can easly test module functionality with downloading it.
-<br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/MAHAndroidUpdater/master/imgs/google-play-badge.png" width="200px"/></a> 
+<br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
 
 
 library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market
