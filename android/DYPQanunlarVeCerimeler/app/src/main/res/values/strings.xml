@@ -20,13 +20,23 @@
 
     <!--Texts for github caution-->
     <string name="text_caution_title">Diqqət!!!</string>
-    <string name="text_caution"> Məlumat bazasının köhnə olması ilə əlaqədar 18/01/2017 tarixindən
-        proqramın fəaliyyəti dayandırıldı və kodu "Açıq qaynaq" (Opensource) halına gətirilib GitHub da yerləşdirildi.
-        Siz bu kod əsasında öz versiyanızı yarada bilər və Android də kodlamanı öyrənmək üçün yararlana bilərsiniz.
+    <string name="text_caution1"> Məlumat bazasının köhnə olması və onu yeniləmək imkanım olmaması ilə əlaqədar 18/01/2017
+        tarixindən proqramın fəaliyyətini dayandırdım və kodu "Açıq qaynaq" (Opensource) halına gətirib GitHub da yerləşdirdim.
+
+    </string>
+    <string name="text_caution2">
+        * Siz bu kod əsasında öz versiyanızı yarada bilər
+        \n* İstənilən kataloq tipli proqram yarada bilər
+        \n* Android də kodlamanı öyrənmək üçün yararlana bilərsiniz.
+        \n
+        \nProqramın istifadəçilərinə təşəkkür edirəm
+        \nMəlumatların köhnə olması ilə əlaqədar burda olan qanunlara istinad etməyiniz məsləhət deyil.
+
     </string>
     <string name="text_caution_detailed"><i><a href="https://github.com/hummatli/DYPQanunlarVeCerimeler">Daha ətraflı...</a></i></string>
     <string name="lib_github_url">https://github.com/hummatli/DYPQanunlarVeCerimeler</string>
 
+    <string name="text_author"><i><a href="https://hummatli.github.io">Müəllif: Səttar Hümmətli</a></i></string>
 
 
 </resources>
