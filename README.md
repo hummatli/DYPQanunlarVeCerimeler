@@ -1,4 +1,4 @@
-# [DYPQanunlarVeCerimeler](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal)
+# [DYPQanunlarVeCerimeler](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) - Simple android catalog application
 
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](http://www.apache.org/licenses/LICENSE-2.0)
 
@@ -8,8 +8,7 @@
 ## Contributors
 * Developer:
 [Sattar Hummatli](https://github.com/hummatli) - [LinkedIn](https://www.linkedin.com/in/hummatli), settarxan@gmail.com, [Other libs](https://github.com/hummatli/MAHAndroidUpdater#other-libraries-by-developer)
-* Translator `Portuguese`: [azzarr](https://github.com/azzarr) , Thanks!
-* Translator `Hindi`: [dalwadi2](https://github.com/dalwadi2), Thanks!
+
 
 
 ## Contents
