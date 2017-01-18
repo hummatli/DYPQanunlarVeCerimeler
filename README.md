@@ -25,7 +25,14 @@
 * [Other libraries by developer](https://github.com/hummatli/MAHAndroidUpdater#other-libraries-by-developer)
 
 ## Description
-MAHAndroidUpdater is library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market
+DYPQanunlarVeCerimeler is sample catalog appliaction containing collection of Azerbaijan Traffic Rules - Offences and Penalties. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list. Application has build on IDE `Android Studio` by native java language. It has integrated following APIs and libs:
+* Firebase - For advertisment lib
+* Fabirc.io(Answers) - for realtime analytics
+* MAHAds lib - for advertisment of my own apps
+* MAHAndroidUpdater lib - to keep fresh and updated
+
+
+library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market
 Library has build on IDE `Android Studio` and binaries have added to `jcenter()`  `maven` repository.
 <br>You can check  <a href="https://bintray.com/hummatli/maven/mah-android-updater#statistics">jCenter() download statistics</a> on this link - https://bintray.com/hummatli/maven/mah-android-updater#statistics  
 
