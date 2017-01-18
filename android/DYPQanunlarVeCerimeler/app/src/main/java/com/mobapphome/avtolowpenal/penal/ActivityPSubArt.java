@@ -71,7 +71,7 @@ public class ActivityPSubArt extends ActionBarActivity implements AdapterView.On
         // Create an ad.
         adView = new AdView(this);
         adView.setAdSize(AdSize.SMART_BANNER);
-        adView.setAdUnitId(Constants.AD_BANNER_UNIT_ID);
+        adView.setAdUnitId(getString(R.string.admob_banner_unit_id));
 
         final LinearLayout layout = (LinearLayout) findViewById(R.id.admobSA);
         layout.addView(adView);

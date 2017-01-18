@@ -1,1 +1,4 @@
 /build
+google-services.json
+fabric.properties
+/src/main/res/values/admob_units.xml

@@ -16,9 +16,6 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <meta-data
-            android:name="io.fabric.ApiKey"
-            android:value="1d72297c9260954406800ecba9c822754caa3fee" />
 
         <activity
             android:name="com.mobapphome.avtolowpenal.avtolow.ActivityALStart"

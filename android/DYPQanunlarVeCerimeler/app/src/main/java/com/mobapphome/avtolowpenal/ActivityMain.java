@@ -8,11 +8,14 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.text.Html;
+import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import com.crashlytics.android.Crashlytics;
 import com.crashlytics.android.answers.Answers;
@@ -83,7 +86,7 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
         // Create an ad.
         adView = new AdView(this);
         adView.setAdSize(AdSize.SMART_BANNER);
-        adView.setAdUnitId(Constants.AD_BANNER_UNIT_ID);
+        adView.setAdUnitId(getString(R.string.admob_banner_unit_id));
 
         final LinearLayout layout = (LinearLayout) findViewById(R.id.admob);
         layout.setVisibility(View.GONE);
@@ -112,6 +115,12 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
 
 
         mInterstitialAd = Utils.requestNewInterstitial(this, mInterstitialAd);
+
+
+        //For caution view
+        ((TextView) findViewById(R.id.tvCautionDetailed)).setMovementMethod(LinkMovementMethod.getInstance());
+        findViewById(R.id.ivForkMeOnGithub).setOnClickListener(this);
+
     }
 
     @Override
@@ -123,6 +132,9 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
         } else if (v.getId() == R.id.btnPenal) {
             Intent intSignAct = new Intent(ActivityMain.this, ActivityPStart.class);
             startActivity(intSignAct);
+        } else if (v.getId() == R.id.ivForkMeOnGithub) {
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.lib_github_url)));
+            startActivity(browserIntent);
         }
 
         Log.i(Constants.TAG_DYP_PENAL_LOG, " interstatial is loaded in out = " + mInterstitialAd.isLoaded());

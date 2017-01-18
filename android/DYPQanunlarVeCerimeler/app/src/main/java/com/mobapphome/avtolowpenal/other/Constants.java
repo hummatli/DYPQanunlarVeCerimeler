@@ -1,8 +1,6 @@
 package com.mobapphome.avtolowpenal.other;
 
 public class Constants {
-	final public static String AD_BANNER_UNIT_ID = "ca-app-pub-4401714783673727/6543340298";
-	final public static String AD_INTERSTITIAL_UNIT_ID = "ca-app-pub-4401714783673727/7534950696";
 
 	final public static String TAG_DYP_PENAL_LOG = "dey_cerime";
 	final public static String TAG_SQL_LITE_DB_LOG = TAG_DYP_PENAL_LOG+  "_"+ "sqlite";

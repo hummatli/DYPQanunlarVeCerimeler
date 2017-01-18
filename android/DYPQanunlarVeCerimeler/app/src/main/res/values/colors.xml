@@ -27,6 +27,10 @@
 	<color name="main_btn_start_color_pressed">#2732d1</color>
 	<color name="main_btn_end_color_pressed">#3844f2</color>
 
+	<color name="caution_background_color">#b1e7e6e6</color>
+	<color name="caution_text_color">#ff0009</color>
+
+
 
 	<!-- ========================= MAHAds  =========================-->
 	<color name="mah_ads_window_background_color">#FFFFFFFF</color>

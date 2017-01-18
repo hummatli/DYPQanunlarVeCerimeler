@@ -12,9 +12,21 @@
         "İnzibati Xətalar Məcəlləsi"-nin yol hərəkətinə aid bütün maddələrini əks etdirir.
         Proqram vasitəsi ilə yol hərəkəti haqqında bütün qanunları və cərimələri öyrənmək olar\n\nSiz
         istədiyiniz sözə görə qanunlar daxilində axtarış apara bilərsini. </string>
-    
+
     <string name="btn_txt_low">\"Yol Hərəkəti Haqqında\" \nqanun</string>
     <string name="btn_txt_penal">Cərimələr</string>
     <string name="btn_txt_outer_penal">Cəriməni öyrən</string>
-    
+
+
+    <!--Texts for github caution-->
+    <string name="text_caution_title">Diqqət!!!</string>
+    <string name="text_caution"> Məlumat bazasının köhnə olması ilə əlaqədar 18/01/2017 tarixindən
+        proqramın fəaliyyəti dayandırıldı və kodu "Açıq qaynaq" (Opensource) halına gətirilib GitHub da yerləşdirildi.
+        Siz bu kod əsasında öz versiyanızı yarada bilər və Android də kodlamanı öyrənmək üçün yararlana bilərsiniz.
+    </string>
+    <string name="text_caution_detailed"><i><a href="https://github.com/hummatli/DYPQanunlarVeCerimeler">Daha ətraflı...</a></i></string>
+    <string name="lib_github_url">https://github.com/hummatli/DYPQanunlarVeCerimeler</string>
+
+
+
 </resources>

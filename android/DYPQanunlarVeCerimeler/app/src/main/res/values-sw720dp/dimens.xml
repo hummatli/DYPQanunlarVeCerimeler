@@ -22,6 +22,7 @@
     <dimen name="item_sign_txt_size">25sp</dimen>
     <dimen name="item_sige_adapter_type_txt_size">31sp</dimen>
     <dimen name="item_type_txt_size">33sp</dimen>
+    <dimen name="caution_txt_size">41sp</dimen>
 
     <dimen name="txt_size_small">25sp</dimen>
     <dimen name="txt_size_middle">27sp</dimen>

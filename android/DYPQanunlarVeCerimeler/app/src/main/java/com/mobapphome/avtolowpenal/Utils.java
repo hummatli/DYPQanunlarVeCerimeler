@@ -56,7 +56,7 @@ public class Utils {
         if(mInterstitialAd == null){
             Log.i(Constants.TAG_DYP_PENAL_LOG, "Interstatial created");
             mInterstitialAd = new InterstitialAd(context);
-            mInterstitialAd.setAdUnitId(Constants.AD_INTERSTITIAL_UNIT_ID);
+            mInterstitialAd.setAdUnitId(context.getString(R.string.admob_interstitial_unit_id));
         }
 
         if (!mInterstitialAd.isLoaded()) {
