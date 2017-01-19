@@ -75,9 +75,6 @@ public *;
 ```
 
 
-## Releases - Upgrade documentation
-See [releases](https://github.com/hummatli/MAHAndroidUpdater/releases). Please,read release notes to migrate your app from old version to a newer.
-
 ## To contribute
 I am open to here offers and opinions from you 
 
@@ -88,34 +85,10 @@ I am open to here offers and opinions from you
 * Create new Pull Request
 * Star it
 
-## Localization
-Library now supports following languages 
-* Azerbaijan
-* English
-* Hindi
-* Portuguese
-* Russia
-* Turkey
-* [Add your language](https://github.com/hummatli/MAHAndroidUpdater/blob/master/README.md#to-contribute-for-localization)
-
-### To contribute for localization
-We need help to add new language localization support for libarary. If you have any hope to help us we were very happy and you can check following <i><a href="https://github.com/hummatli/MAHAndroidUpdater/issues">GitHub Issues URL</a></i> to contribute. To contribute get <a href="https://github.com/hummatli/MAHAndroidUpdater/blob/master/MAHAndroidUpdater/mah-android-updater/src/main/res/values/strings.xml">res/values/string.xml</a> file and translate to newer language. Place it on res/values-"spacific_lang"/string.xml
-
-## Applications using MAHAndroidUpdater
-Please [ping](mailto:settarxan@gmail.com) me or send a pull request if you would like to see your app in the start of the list.
-
-Icon | Application | Icon | Application
------------- | ------------- | ------------- | -------------
-[Your app] |[ping](mailto:settarxan@gmail.com) me or send a pull request | <img src="https://lh3.googleusercontent.com/UhNXotmmhpK3eCV5XEeLSX555Tu_k-A9VgqrPK_4EWLJsJaCUugNVGEahafCrO45Lg=w300-rw" width="48" height="48" /> | [Indian Railway PNRStatus IRCTC](https://play.google.com/store/apps/details?id=com.emilartin.travel.indianrailwaypnrstatusirctc)
-<img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/millionaire_ru.png" width="48" height="48" /> | [Миллионер - на Pусском](https://play.google.com/store/apps/details?id=com.mobapphome.millionaire.ru) | <img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/millionaire_tr.png" width="48" height="48" /> | [Milyoner - Türkçe](https://play.google.com/store/apps/details?id=com.mobapphome.millionaire.tr)
-<img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/millionaire_en.png" width="48" height="48" /> | [Millionaire - in English](https://play.google.com/store/apps/details?id=com.mobapphome.millionaire.en) | <img src="https://lh3.ggpht.com/kfuLs-Ic0xR3SOFdjJ3FVeI0es2oXTCEt1T2y8tEVeYm7otSuSSBDlrpz4wXtIygf4k=w300-rw" width="48" height="48" /> | [Məzənnə](https://play.google.com/store/apps/details?id=com.mobapphome.currency)
-<img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/mah_ads_sample_icon.png" width="48" height="48" /> | [MAHAds - Sample](https://play.google.com/store/apps/details?id=com.mobapphome.mahads.sample) | <img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/mah_android_updater_sample_icon.png" width="48" height="48" /> | [MAHAndroidUpdater - Sample](https://play.google.com/store/apps/details?id=com.mobapphome.mahandroidupdater.sample)
-<img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/mah_encryptor_lib_sample_icon.png" width="48" height="48" /> | [MAHEncryptorLib - Sample](https://play.google.com/store/apps/details?id=com.mobapphome.mahencryptorlib) | <img src="https://lh5.ggpht.com/P_TyFmB5BzYDGWl3yliDHkQr_ttrYzHS3yQk3mBS3QuJJ5TJZ1pMj8lx-wmUmAHiUw=w300-rw" width="48" height="48" /> | [Ləzzət](https://play.google.com/store/apps/details?id=com.mobapphome.lezzet)
-<img src="https://project-943403214286171762.firebaseapp.com/mah_ads_dir/imgs/millionaire_az.png" width="48" height="48" /> | [Milyonçu](https://play.google.com/store/apps/details?id=com.mobapphome.milyoncu) | | 
-
 
 ## Other libraries by developer
 * [![MAHAds](https://img.shields.io/badge/GitHUB-MAHAds-green.svg)](https://github.com/hummatli/MAHAds) - Library for advertisement own apps through your other apps.  
+* [![MAHAndroidUpdater](https://img.shields.io/badge/GitHUB-MAHAndroidUpdater-green.svg)](https://github.com/hummatli/MAHAndroidUpdater) - Android update checker library. Library for notifing update information to installed android apps on android device.  
 * [![MAHEncryptorLib](https://img.shields.io/badge/GitHUB-MAHEncryptorLib-green.svg)](https://github.com/hummatli/MAHEncryptorLib) - Library for encryption and decryption strings on Android apps and PC Java applications.
 
 ## License
