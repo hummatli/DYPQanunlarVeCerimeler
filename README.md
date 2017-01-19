@@ -12,7 +12,9 @@
 
 
 ## Description
-`DYP Qanunlar və Cərimələr` is sample catalog appliaction containing collection of Azerbaijan Republic Traffic Rules - Offences and Penalties. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list. Application has build on IDE `Android Studio` by native java language. It has integrated following APIs and libs:
+`DYP Qanunlar və Cərimələr` is sample catalog appliaction containing collection of Azerbaijan Republic Traffic Rules - Offences and Penalties. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list. Application has build on IDE `Android Studio 2.2.3` by native java language. It has integrated following APIs and libs:
+
+## Integrated APIs and libraries
 * Firebase - For advertisment lib
 * Fabirc.io(Answers) - for realtime analytics
 * MAHAds lib - for advertisment of my own apps
@@ -28,16 +30,12 @@
 <a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal">DYP Qanunlar ve Cerimeler</a> app has published on Google PlayStore. You can easly test module functionality with downloading it.
 <br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
 
-
-library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market
-Library has build on IDE `Android Studio` and binaries have added to `jcenter()`  `maven` repository.
-<br>You can check  <a href="https://bintray.com/hummatli/maven/mah-android-updater#statistics">jCenter() download statistics</a> on this link - https://bintray.com/hummatli/maven/mah-android-updater#statistics  
-
-There is a list of [application using MAHAndroidUpdater](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater). It would be nice if see your app link there too. If you use this library and want to see your app in the start of the [list](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater) please [inform me](mailto:settarxan@gmail.com) or send a pull request.
+## How to configure
+* Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/). You will need google-service.json file and follwing string     
+`<string name="admob_banner_unit_id">Your banner id</string>`
+`<string name="admob_interstitial_unit_id">your interstitial id</string>`
 
 
-
-## Service structure
 To provide update information to your app you need to implement service responding json data about application current state. Structure of the json data is as below.  
 You can provide `http://` and `https://` services. Library works both of them.
 
