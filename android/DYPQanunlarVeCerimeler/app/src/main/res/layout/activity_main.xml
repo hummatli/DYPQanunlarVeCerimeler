@@ -121,33 +121,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/tvAuthor"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:background="@color/caution_background_color"
-            android:paddingBottom="@dimen/general_padding_half"
-            android:paddingLeft="@dimen/general_padding"
-            android:paddingRight="@dimen/general_padding"
-            android:paddingTop="@dimen/general_padding_half"
-            android:text="@string/text_author"
-            android:textColor="@color/caution_text_color"
-            android:textSize="@dimen/item_sige_adapter_type_txt_size" />
-
-        <ImageView
-            android:id="@+id/ivForkMeOnGithub"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true"
-            android:src="@drawable/forkme_green" />
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true"
+            android:layout_alignParentTop="true"
             android:background="@color/caution_background_color"
             android:gravity="center"
             android:orientation="vertical"
@@ -172,33 +149,24 @@
                     android:textColor="@color/caution_text_color"
                     android:textSize="@dimen/caution_txt_size" />
 
-                <TextView
-                    android:id="@+id/tvCautionDetailed"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/text_caution_detailed"
-                    android:textColor="@color/caution_text_color"
-                    android:textColorLink="@color/btn_dark_color"
-                    android:textSize="@dimen/item_sign_txt_size" />
             </LinearLayout>
 
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/general_padding_large"
                 android:text="@string/text_caution1"
                 android:textColor="@color/caution_text_color"
                 android:textSize="@dimen/item_sign_txt_size" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/text_caution2"
-                android:textColor="@color/caution_text_color"
-                android:textSize="@dimen/txt_size_middle" />
         </LinearLayout>
 
-
+        <ImageView
+            android:id="@+id/ivForkMeOnGithub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/forkme_green" />
     </RelativeLayout>
 </RelativeLayout>

@@ -118,8 +118,6 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
 
 
         //For caution view
-        ((TextView) findViewById(R.id.tvCautionDetailed)).setMovementMethod(LinkMovementMethod.getInstance());
-        ((TextView) findViewById(R.id.tvAuthor)).setMovementMethod(LinkMovementMethod.getInstance());
         findViewById(R.id.ivForkMeOnGithub).setOnClickListener(this);
 
     }
