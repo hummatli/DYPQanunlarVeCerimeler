@@ -6,11 +6,6 @@
 <img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/img2.png" width="200px"/>
 <img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/img3.png" width="200px"/>
 
-## Contributors
-* Developer:
-[Sattar Hummatli](https://github.com/hummatli) - [LinkedIn](https://www.linkedin.com/in/hummatli), settarxan@gmail.com, [Other libs](https://github.com/hummatli/DYPQanunlarVeCerimeler#other-libraries-by-developer)
-
-
 ## Description
 `DYP Qanunlar və Cərimələr` is sample catalog appliaction containing collection of Azerbaijan Republic Traffic Rules - Offences and Penalties. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list. Application has build on IDE `Android Studio 2.2.3` by native java language. It has integrated following APIs and libs:
 
@@ -55,6 +50,10 @@ I am open to here offers and opinions from you
 * Push to the branch (git push origin my-new-feature)
 * Create new Pull Request
 * Star it
+
+## Contributors
+* Developer:
+[Sattar Hummatli](https://github.com/hummatli) - [LinkedIn](https://www.linkedin.com/in/hummatli), settarxan@gmail.com, [Other libs](https://github.com/hummatli/DYPQanunlarVeCerimeler#other-libraries-by-developer)
 
 
 ## Other libraries by developer
