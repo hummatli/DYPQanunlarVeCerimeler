@@ -10,6 +10,10 @@
 `DYP Qanunlar və Cərimələr` is sample catalog appliaction containing collection of Azerbaijan Republic Traffic Rules - Offences and Penalties until 2015. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list.   
 Application has build on IDE `Android Studio 2.2.3` by native java language.   
 
+## Sample App in PlayStore
+<a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal">DYP Qanunlar ve Cerimeler</a> app has published on Google PlayStore. You can easly test module functionality with downloading it.
+<br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
+
 ## Integrated APIs and libraries
 * Firebase - For advertisment lib
 * Fabirc.io(Answers) - for realtime analytics
@@ -20,11 +24,6 @@ Application has build on IDE `Android Studio 2.2.3` by native java language.
 * To create application like this but with fresh data of Azerbaijan Republic Traffic Rules - Offences and Penalties
 * To create another catalog application with different kind of data
 * To learn Android programing based on this sample
-
-
-## Sample App in PlayStore
-<a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal">DYP Qanunlar ve Cerimeler</a> app has published on Google PlayStore. You can easly test module functionality with downloading it.
-<br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
 
 ## How to configure
 You can remove from project any of following APIs if you don't want to use them
