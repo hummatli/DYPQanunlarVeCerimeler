@@ -11,20 +11,6 @@
 [Sattar Hummatli](https://github.com/hummatli) - [LinkedIn](https://www.linkedin.com/in/hummatli), settarxan@gmail.com, [Other libs](https://github.com/hummatli/DYPQanunlarVeCerimeler#other-libraries-by-developer)
 
 
-
-## Contents
-* [Description](https://github.com/hummatli/MAHAndroidUpdater#description)
-* [Service structure](https://github.com/hummatli/MAHAndroidUpdater#service-structure)
-* [Library structure](https://github.com/hummatli/MAHAndroidUpdater#library-structure)
-* [Installation manual](https://github.com/hummatli/MAHAndroidUpdater#installation-manual)
-* [Help - Issues](https://github.com/hummatli/MAHAndroidUpdater#help---issues)
-* [Releases - Upgrade documentation](https://github.com/hummatli/MAHAndroidUpdater#releases---upgrade-documentation)
-* [To contribute](https://github.com/hummatli/MAHAndroidUpdater#to-contribute)
-* [Contributors](https://github.com/hummatli/MAHAndroidUpdater#contributors)
-* [Localization](https://github.com/hummatli/MAHAndroidUpdater#localization)
-* [Applications using MAHAndroidUpdater](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater)
-* [Other libraries by developer](https://github.com/hummatli/MAHAndroidUpdater#other-libraries-by-developer)
-
 ## Description
 `DYP Qanunlar və Cərimələr` is sample catalog appliaction containing collection of Azerbaijan Republic Traffic Rules - Offences and Penalties. It is live on [Google Play Market](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal) but has depreciated due to old version of rules and penals list. Application has build on IDE `Android Studio` by native java language. It has integrated following APIs and libs:
 * Firebase - For advertisment lib
