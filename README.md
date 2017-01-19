@@ -31,131 +31,20 @@
 <br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
 
 ## How to configure
-* Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/).  
-You will need following on your project   
+You can remove from project any of following APIs if you don't want to use them
+* Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/). 
+You will need followings:
     **1.** google-service.json   
     **2** Admob ids     
 	`<string name="admob_banner_unit_id">Your banner id</string>`    
 	`<string name="admob_interstitial_unit_id">your interstitial id</string>`
+* Fabric.io - You will need your fabric key to add Manafest file, [Link](https://docs.fabric.io/android/fabric/overview.html)
+* MAHAds lib - [Link](https://github.com/hummatli/MAHAds)
+* MAHAndroidUpdater - [Link](https://github.com/hummatli/MAHAndroidUpdater)
 
 
-To provide update information to your app you need to implement service responding json data about application current state. Structure of the json data is as below.  
-You can provide `http://` and `https://` services. Library works both of them.
-
-Json with sample data. [Link](https://github.com/MobAppHome/MAHServiceForMyApps/blob/master/public/mah_android_updater_dir/mah_android_updater_sample.json) to working sample
- 
-```json
-{
-    "is_run_mode":"true",
-    "name":"MAHUpdater Sample",
-    "uri_current":"com.mobapphome.mahandroidupdater.sample",
-    "version_code_current":"2",
-    "version_code_min":"1",
-    "update_info":"On version 1.0 we added bla bla",
-    "update_date":"16/07/2016"
-}
-```
-* `is_run_mode` - service mode: if it's false modul will not react to service and will not show dialogs
-* `name` - name of the belonging app
-* `uri_current` - current package path
-* `version_code_current` - current version code avilable
-* `version_code_min` - Minimum version code, which does not work normal and had to force to update
-* `update_info` - Update information
-* `update_date` - Update date
-
-If one of the variables would not be on json, then modul will not repond to service and act, Try to implement all data.  
-
-You can check you json validity with this [jsonlint.com](http://jsonlint.com/)
-  
-## Library structure
-Library contains from to Dialog component
-* `MAHUpdaterDlg`- In this situation dialog show to user to update or install newer version and lets to postpone the action to later time and use application
-* `MAHRestricterDlg` - In this situation dialog urges user to update or install newer version and dont alow use older version
- 
-The porpose of lib to show automatically these dialogs on application start if there are any need for it.
-**-** `MAHUpdaterDlg` opens on following situation.
-* Or `uri_current` value is different from app's installed package url
-* Or `version_code_current` value is greater than app's installed version on device
-
-**-** `MAHRestricterDlg` opens on all situation `MAHUpdaterDlg` opens and following situation.
-* `version_code_min` value is greater than app's installed version on device
-
-But when you develop your apps UI and want to show these dialogs there are test modes also and you can open dialogs by calling methods relatively 
-* `MAHUpdaterController.testUpdaterDlg(activity);` - `MAHUpdaterDlg` 
-* `MAHUpdaterController.testRestricterDlg(activity);` - `MAHRestricterDlg` 
-
-## Installation manual
-**1)** To import library to you project add following lines to project's `build.gradle` file.  
-The last stable version is `1.1.1`
-
-```
-	dependencies {
-    		compile 'com.mobapphome.library:mah-android-updater:1.1.1'
-	}
-```
-
-**2)** On the start of your application call `MAHUpdaterController.init()` method to initialize modul. For example: MainActivity's `onCreate()` method or in splash activity. Check http url is correct and points to your service on the web.
-Code: 
-```java
-	MAHUpdaterController.init(activity,"http://highsoft.az/mah-android-updater-sample.php");
-```
-
-**3)** When you quit app, you have to call `MAHUpdaterController.end()` method to finalize modul.  For example: MainActivity's `onDestroy()` method. 
-```java
-	MAHUpdaterController.end();						
-```
-
-**4)** To customize `MAHAndroidUpdater` dialog UI and overide colors set these values on your main projects `color.xml` file
-```xml
-    <color name="mah_android_upd_window_background_color">#FFFFFFFF</color>
-    <color name="mah_android_upd_title_bar_color">#FF3F51B5</color>
-    <color name="mah_android_upd_info_txt_color">#FF3F51B5</color>
-
-    <color name="mah_android_upd_restricter_dlg_btn_pressed_color">#a33F51B5</color>
-    <color name="mah_android_upd_restricter_dlg_btn_dark_state_color">#ff3F51B5</color>
-    <color name="mah_android_upd_restricter_dlg_btn_light_state_color">#ffffffff</color>
-
-    <color name="mah_android_upd_upd_dlg_btn_text_color">#ffFF4081</color>			
-```
-
-**5)** `Localization:`  Following languages is supporting by the lib - [Supported Languages](https://github.com/hummatli/MAHAndroidUpdater#localization).  To set localization to app use your own method or if it is static and don't change in program session you can just simply add 		`LocaleUpdater.updateLocale(this, "your_lang");` in the start of your app. For examlpe  `LocaleUpdater.updateLocale(this, "ru");`
-
-**6)** To customize `MAHAndroidUpdater` UI texts and overide them add these lines to main projects `string.xml` and set them values
-
-```xml
-    <string name="mah_android_upd_dlg_title">Update info</string>
-    <!-- Button texts-->
-    <string name="mah_android_upd_dlg_btn_no_later_txt">Later</string>
-    <string name="mah_android_upd_dlg_btn_no_close_txt">Close</string>
-    <string name="mah_android_upd_dlg_btn_yes_update_txt">Update</string>
-    <string name="mah_android_upd_dlg_btn_yes_install_txt">Install</string>
-    <string name="mah_android_upd_dlg_btn_yes_open_new_txt">Open new version</string>
-    <string name="mah_android_upd_dlg_btn_no_uninstall_old_txt">Uninstall old</string>
-
-    <!-- Info texts-->
-    <string name="mah_android_upd_updater_info_install">Application has moved to new address. Please install newer version</string>
-    <string name="mah_android_upd_updater_info_update">"New version is available. Please update application"</string>
-    <string name="mah_android_upd_restricter_info_install">This is old version and does not operate. An application has moved to new address. \nPlease install newer version</string>
-    <string name="mah_android_upd_restricter_info_update">"This is old version and does not operate. Please update application"</string>
-    <string name="mah_android_upd_restricter_info_open_new_version">"This is old version and does not operate. Please open new version"</string>
-
-    <!-- Additional information-->
-    <string name="mah_android_upd_internet_update_error">Check your internet connection</string>
-    <!--new--> <string name="mah_android_upd_play_service_not_found">Install Google Play Services to update application</string> 
-    <string name="mah_android_upd_info_popup_text">MAHAndroidUpdater library</string>
-```
-
-**7)** To customize `Info button` on the `right - upper` corner of dialogs. You can do it with help of `MAHUpdaterController.init()` method. It has three version. `init()`This method well documented and you can see it when developing your app.  
-You can do followings with `Info button`:
-* Change visibility
-* Set your own name or url to open when click on info button
-* Open popup menu or act as button when click on info button
-
-
-**8)** As modul takes information from web servcie you need add `INTERNET` permission to main project.
-```xml
-	<uses-permission android:name="android.permission.INTERNET" />
-```
+## Help - Issues
+If you have any problem with setting and using library or want to ask question, please let me know. Create [issue](https://github.com/hummatli/DYPQanunlarVeCerimeler/issues) or write to <i><a href="mailto:settarxan@gmail.com">settarxan@gmail.com</a></i>. I will help.
 
 ## Proguard configuration
 MAHAndroidUpdater uses <a href="https://github.com/google/gson">Gson</a> and <a href="https://github.com/jhy/jsoup">Jsoup</a> libs. There for if you want to create your project with proguard you need to add following configuration to your proguard file.
@@ -185,8 +74,6 @@ public *;
 ##---------------End: proguard configuration for Jsoup--------------------------------
 ```
 
-## Help - Issues
-If you have any problem with setting and using library or want to ask question, please let me know. Create [issue](https://github.com/hummatli/MAHAndroidUpdater/issues) or write to <i><a href="mailto:settarxan@gmail.com">settarxan@gmail.com</a></i>. I will help.
 
 ## Releases - Upgrade documentation
 See [releases](https://github.com/hummatli/MAHAndroidUpdater/releases). Please,read release notes to migrate your app from old version to a newer.
