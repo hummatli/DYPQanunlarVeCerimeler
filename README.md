@@ -29,8 +29,8 @@
 You can remove from project any of following APIs if you don't want to use them
 * Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/).   
 You will need followings:  
-    **1** google-service.json   
-    **2** Admob ids     
+    **1)** google-service.json   
+    **2)** Admob ids     
 	`<string name="admob_banner_unit_id">Your banner id</string>`    
 	`<string name="admob_interstitial_unit_id">your interstitial id</string>`
 * Fabric.io - You will need your fabric key to add Manafest file, [Link](https://docs.fabric.io/android/fabric/overview.html)
