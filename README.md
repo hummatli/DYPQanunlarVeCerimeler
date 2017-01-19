@@ -31,9 +31,12 @@
 <br><a href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal"><img src="https://raw.githubusercontent.com/hummatli/DYPQanunlarVeCerimeler/master/icon_create/imgs_github/google-play-badge.png" width="200px"/></a> 
 
 ## How to configure
-* Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/). You will need google-service.json file and follwing string     
-`<string name="admob_banner_unit_id">Your banner id</string>`
-`<string name="admob_interstitial_unit_id">your interstitial id</string>`
+* Firebase. To use Admob in your project you have to configure it [Link](https://firebase.google.com/docs/admob/).  
+You will need following on your project 
+    **1.** google-service.json 
+    **2** Admob ids     
+	`<string name="admob_banner_unit_id">Your banner id</string>`    
+	`<string name="admob_interstitial_unit_id">your interstitial id</string>`
 
 
 To provide update information to your app you need to implement service responding json data about application current state. Structure of the json data is as below.  
