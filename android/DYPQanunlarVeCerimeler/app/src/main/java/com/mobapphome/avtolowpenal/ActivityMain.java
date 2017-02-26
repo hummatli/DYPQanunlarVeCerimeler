@@ -1,21 +1,16 @@
 package com.mobapphome.avtolowpenal;
 
 
-import android.content.ActivityNotFoundException;
 import android.content.Intent;
-import android.content.pm.ApplicationInfo;
-import android.content.pm.PackageManager;
+import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
-import android.text.Html;
-import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import com.crashlytics.android.Crashlytics;
 import com.crashlytics.android.answers.Answers;
@@ -27,9 +22,9 @@ import com.google.android.gms.ads.InterstitialAd;
 import com.mobapphome.avtolowpenal.avtolow.ActivityALStart;
 import com.mobapphome.avtolowpenal.other.Constants;
 import com.mobapphome.avtolowpenal.penal.ActivityPStart;
+import com.mobapphome.mahads.MAHAdsController;
 import com.mobapphome.mahads.MAHAdsDlgExit;
 import com.mobapphome.mahads.tools.LocaleUpdater;
-import com.mobapphome.mahads.tools.MAHAdsController;
 import com.mobapphome.mahandroidupdater.tools.MAHUpdaterController;
 
 import io.fabric.sdk.android.Fabric;
@@ -42,34 +37,38 @@ import io.fabric.sdk.android.Fabric;
 //Amma Android 2.x a ehtiyyac yoxdur.
 //Vaxt tapib Android 2.x - de appcompat ile actionbari invisible etmeyi tapmaq lazimdir
 
-public class ActivityMain extends FragmentActivity implements View.OnClickListener, MAHAdsDlgExit.MAHAdsDlgExitListener  {
+public class ActivityMain extends FragmentActivity implements View.OnClickListener, MAHAdsDlgExit.MAHAdsDlgExitListener {
 
     AdView adView;
     InterstitialAd mInterstitialAd;
+    MAHAdsController mahAdsController;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+//        //Localization for mah
+//        LocaleUpdater.updateLocale(this, "az");
+
         //Fabric------------------------------------------------
         Fabric.with(this, new Crashlytics());
         Fabric.with(this, new Answers());
 
 
-        //Localization for mah
-        LocaleUpdater.updateLocale(this, "az");
+        Log.i(Constants.TAG_DYP_PENAL_LOG, "savedInstanceState main act = " + savedInstanceState);
 
-        Log.i(Constants.TAG_DYP_PENAL_LOG, "savedInstanceState = " + savedInstanceState);
+        // For MAHAds init
+        mahAdsController = MAHAdsController.getInstance();
+        mahAdsController.init(this,
+                savedInstanceState,
+                "https://project-943403214286171762.firebaseapp.com/mah_ads_dir/",
+                "aze_gen_prg_version.json",
+                "aze_gen_prg_list.json");
+        // METHOD 1
+
 
         if (savedInstanceState == null) {
-            // For MAHAds init
-            MAHAdsController.init(this,
-                    "https://project-943403214286171762.firebaseapp.com/mah_ads_dir/",
-                    "aze_gen_prg_version.json",
-                    "aze_gen_prg_list.json");
-            // METHOD 1
-
             // For MAHUpdater init
             MAHUpdaterController.init(this,
                     "https://project-943403214286171762.firebaseapp.com/mah_android_updater_dir/mah_android_updater_dyp_qanunlar_ve_cerimeler.json");
@@ -122,6 +121,22 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
 
     }
 
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        //This activity has fixed oriantation. Therefore I call locale setter here.
+        // Otherewise sometimes it set default lang
+        //Localization for mah
+        LocaleUpdater.updateLocale(this, "az");
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        mahAdsController.onSaveInstanceState(outState);
+    }
+
     @Override
     public void onClick(View v) {
         // TODO Auto-generated method stub
@@ -143,7 +158,7 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
 
     @Override
     public void onBackPressed() {
-        MAHAdsController.callExitDialog(this);
+        mahAdsController.callExitDialog(this);
     }
 
     @Override

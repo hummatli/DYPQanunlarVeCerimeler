@@ -32,7 +32,8 @@ import com.mobapphome.avtolowpenal.SqlMethods;
 import com.mobapphome.avtolowpenal.Utils;
 import com.mobapphome.avtolowpenal.other.ALChapterArticle;
 import com.mobapphome.avtolowpenal.other.Constants;
-import com.mobapphome.mahads.tools.MAHAdsController;
+import com.mobapphome.mahads.MAHAdsController;
+import com.mobapphome.mahads.tools.LocaleUpdater;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -46,12 +47,16 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
 
     SqlLiteHelper myDbHelper;
     InterstitialAd mInterstitialAd;
+    MAHAdsController mahAdsController;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_al_start);
+
+        //Localization for mah
+        LocaleUpdater.updateLocale(this, "az");
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         if (toolbar != null) {
@@ -100,6 +105,15 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
         });
 
 
+        // For MAHAds init
+        mahAdsController = MAHAdsController.getInstance();
+        mahAdsController.init(this,
+                savedInstanceState,
+                "https://project-943403214286171762.firebaseapp.com/mah_ads_dir/",
+                "aze_gen_prg_version.json",
+                "aze_gen_prg_list.json");
+        // METHOD 1
+
         mInterstitialAd = Utils.requestNewInterstitial(this, mInterstitialAd);
 
         final ProgressDialog progressDialog = Utils.showProgressDlg(this);
@@ -139,6 +153,12 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
                 Utils.closeProgressDlg(progressDialog);
             }
         }.execute();
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        mahAdsController.onSaveInstanceState(outState);
     }
 
     @Override
@@ -210,7 +230,7 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
             case R.id.action_search:
                 return true;
             case R.id.action_mahads:
-                MAHAdsController.callProgramsDialog(this);
+                mahAdsController.callProgramsDialog(this);
                 return true;
             case android.R.id.home:
                 onBackPressed();

@@ -2,7 +2,7 @@ package com.mobapphome.avtolowpenal.other;
 
 public class Constants {
 
-	final public static String TAG_DYP_PENAL_LOG = "dey_cerime";
+	final public static String TAG_DYP_PENAL_LOG = "dyp_cerime";
 	final public static String TAG_SQL_LITE_DB_LOG = TAG_DYP_PENAL_LOG+  "_"+ "sqlite";
 
 	final public static String PREF_KEY_INTERSTITIAL_COUNT = "interstitial_count";
