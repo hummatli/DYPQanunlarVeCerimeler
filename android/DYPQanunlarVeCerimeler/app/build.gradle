@@ -31,8 +31,8 @@ android {
         applicationId "com.mobapphome.avtolowpenal"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 19
-        versionName "2.0.6"
+        versionCode 20
+        versionName "2.0.7"
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
             targetCompatibility JavaVersion.VERSION_1_7
@@ -48,9 +48,9 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:25.2.0'
-    compile 'com.mobapphome.library:mah-ads:2.1.2'
-    compile 'com.mobapphome.library:mah-android-updater:1.1.4'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.mobapphome.library:mah-ads:2.1.5'
+    compile 'com.mobapphome.library:mah-android-updater:1.1.6'
     compile 'com.google.firebase:firebase-core:10.0.1'
     compile 'com.google.firebase:firebase-ads:10.0.1'
     compile 'com.google.code.gson:gson:2.7'
