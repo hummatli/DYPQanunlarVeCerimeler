@@ -1,4 +1,4 @@
-<h1 align="center">[DYP Qanunlar və Cərimələr](https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal)</h1>
+<h1 align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.mobapphome.avtolowpenal">DYP Qanunlar və Cərimələr</a></h1>
 <h4 align="center">Android catalog app</h4>
 
 <p align="center">
