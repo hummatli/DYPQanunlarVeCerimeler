@@ -19,13 +19,13 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
+import com.mobapphome.androidappupdater.tools.AAUpdaterController;
+import com.mobapphome.appcrosspromoter.ACPController;
+import com.mobapphome.appcrosspromoter.ACPDlgExit;
+import com.mobapphome.appcrosspromoter.tools.LocaleUpdater;
 import com.mobapphome.avtolowpenal.avtolow.ActivityALStart;
 import com.mobapphome.avtolowpenal.other.Constants;
 import com.mobapphome.avtolowpenal.penal.ActivityPStart;
-import com.mobapphome.mahads.MAHAdsController;
-import com.mobapphome.mahads.MAHAdsDlgExit;
-import com.mobapphome.mahads.tools.LocaleUpdater;
-import com.mobapphome.mahandroidupdater.tools.MAHUpdaterController;
 
 import io.fabric.sdk.android.Fabric;
 
@@ -37,11 +37,11 @@ import io.fabric.sdk.android.Fabric;
 //Amma Android 2.x a ehtiyyac yoxdur.
 //Vaxt tapib Android 2.x - de appcompat ile actionbari invisible etmeyi tapmaq lazimdir
 
-public class ActivityMain extends FragmentActivity implements View.OnClickListener, MAHAdsDlgExit.MAHAdsDlgExitListener {
+public class ActivityMain extends FragmentActivity implements View.OnClickListener, ACPDlgExit.ACPDlgExitListener {
 
     AdView adView;
     InterstitialAd mInterstitialAd;
-    MAHAdsController mahAdsController;
+    ACPController mahAdsController;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,7 +59,7 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
         Log.i(Constants.TAG_DYP_PENAL_LOG, "savedInstanceState main act = " + savedInstanceState);
 
         // For MAHAds init
-        mahAdsController = MAHAdsController.getInstance();
+        mahAdsController = ACPController.getInstance();
         mahAdsController.init(this,
                 savedInstanceState,
                 "https://project-943403214286171762.firebaseapp.com/mah_ads_dir/",
@@ -70,10 +70,10 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
 
         if (savedInstanceState == null) {
             // For MAHUpdater init
-            MAHUpdaterController.init(this,
+            AAUpdaterController.init(this,
                     "https://project-943403214286171762.firebaseapp.com/mah_android_updater_dir/mah_android_updater_dyp_qanunlar_ve_cerimeler.json");
-            //MAHUpdaterController.testRestricterDlg(this);
-            //MAHUpdaterController.testUpdaterDlg(this);
+            //AAUpdaterController.testRestricterDlg(this);
+            //AAUpdaterController.testUpdaterDlg(this);
             // METHOD 1
         }
 
@@ -164,7 +164,7 @@ public class ActivityMain extends FragmentActivity implements View.OnClickListen
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        MAHUpdaterController.end();
+        AAUpdaterController.end();
 
         if (adView != null) {
             adView.destroy();

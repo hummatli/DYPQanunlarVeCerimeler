@@ -24,6 +24,8 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
+import com.mobapphome.appcrosspromoter.ACPController;
+import com.mobapphome.appcrosspromoter.tools.LocaleUpdater;
 import com.mobapphome.avtolowpenal.ActivityAbout;
 import com.mobapphome.avtolowpenal.CustomStatusBarDecorator;
 import com.mobapphome.avtolowpenal.R;
@@ -32,8 +34,6 @@ import com.mobapphome.avtolowpenal.SqlMethods;
 import com.mobapphome.avtolowpenal.Utils;
 import com.mobapphome.avtolowpenal.other.ALChapterArticle;
 import com.mobapphome.avtolowpenal.other.Constants;
-import com.mobapphome.mahads.MAHAdsController;
-import com.mobapphome.mahads.tools.LocaleUpdater;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -47,7 +47,7 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
 
     SqlLiteHelper myDbHelper;
     InterstitialAd mInterstitialAd;
-    MAHAdsController mahAdsController;
+    ACPController mahAdsController;
 
 
     @Override
@@ -106,7 +106,7 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
 
 
         // For MAHAds init
-        mahAdsController = MAHAdsController.getInstance();
+        mahAdsController = ACPController.getInstance();
         mahAdsController.init(this,
                 savedInstanceState,
                 "https://project-943403214286171762.firebaseapp.com/mah_ads_dir/",
