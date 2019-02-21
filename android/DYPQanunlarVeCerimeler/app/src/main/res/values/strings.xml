@@ -28,5 +28,8 @@
 
     <string name="lib_github_url">https://github.com/hummatli/DYPQanunlarVeCerimeler</string>
 
+    <string name="btn_ok">OK</string>
+    <string name="action_privacy_policy">Gizlilik Siyasəti</string>
+
 
 </resources>

@@ -29,6 +29,7 @@
 
 	<color name="caution_background_color">#b1e7e6e6</color>
 	<color name="caution_text_color">#ff0009</color>
+	<color name="transparent">#00ffffff</color>
 
 
 

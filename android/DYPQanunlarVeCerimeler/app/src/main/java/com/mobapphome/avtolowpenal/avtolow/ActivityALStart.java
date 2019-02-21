@@ -4,6 +4,10 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v4.app.DialogFragment;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -28,6 +32,7 @@ import com.mobapphome.appcrosspromoter.ACPController;
 import com.mobapphome.appcrosspromoter.tools.LocaleUpdater;
 import com.mobapphome.avtolowpenal.ActivityAbout;
 import com.mobapphome.avtolowpenal.CustomStatusBarDecorator;
+import com.mobapphome.avtolowpenal.PrivacyPolicyFragment;
 import com.mobapphome.avtolowpenal.R;
 import com.mobapphome.avtolowpenal.SqlLiteHelper;
 import com.mobapphome.avtolowpenal.SqlMethods;
@@ -227,6 +232,9 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
                 Intent intAboutAct = new Intent(ActivityALStart.this, ActivityAbout.class);
                 startActivity(intAboutAct);
                 return true;
+            case R.id.action_privacy_policy:
+                showDlgFragment(PrivacyPolicyFragment.newInstance("", ""), "PrivacyPolicyFragment");
+                return true;
             case R.id.action_search:
                 return true;
             case R.id.action_mahads:
@@ -240,6 +248,20 @@ public class ActivityALStart extends AppCompatActivity implements SearchView.OnQ
         }
     }
 
+    public void showDlgFragment(Fragment frag, String fragTag) {
+
+        if (!isFinishing()) {
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            Fragment fr = fragmentManager.findFragmentByTag(fragTag);
+            if (fr != null && !fr.isHidden()) {
+                ((DialogFragment)fr).dismissAllowingStateLoss();
+            }
+
+            FragmentTransaction transaction = fragmentManager.beginTransaction();
+            transaction.add(frag, fragTag);
+            transaction.commitAllowingStateLoss();
+        }
+    }
 
     @Override
     public boolean onQueryTextChange(String newText) {

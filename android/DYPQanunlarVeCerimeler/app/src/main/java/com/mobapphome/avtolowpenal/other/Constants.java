@@ -14,4 +14,7 @@ public class Constants {
 	public final static int INTERSTITAIL_FREE_STEPS_MAIN = 5;
 	final public static String COLOR_FOR_TEXT_CODE = "#3944c7";
 
+	public final static String URL_PRIVACY_POLICY = "https://project-943403214286171762.firebaseapp.com/privacy_policies/privacy_policy_dyp_qanunlar_ve_cerimeler.html";
+
+
 }

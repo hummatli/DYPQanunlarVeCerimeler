@@ -2,6 +2,7 @@ package com.mobapphome.avtolowpenal;
 
 import java.util.regex.Pattern;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,6 +10,10 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
+import android.support.v4.app.DialogFragment;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.WindowManager;
 
@@ -140,4 +145,5 @@ public class Utils {
         retStr = NumericCharacterReference.decode(retStr, ' ');
         return retStr;
 	}
+
 }
