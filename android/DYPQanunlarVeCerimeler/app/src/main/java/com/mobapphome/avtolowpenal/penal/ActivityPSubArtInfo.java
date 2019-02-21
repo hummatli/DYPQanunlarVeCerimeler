@@ -1,5 +1,18 @@
 package com.mobapphome.avtolowpenal.penal;
 
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.text.Html;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
@@ -7,26 +20,9 @@ import com.google.android.gms.ads.AdView;
 import com.mobapphome.avtolowpenal.ActivityAbout;
 import com.mobapphome.avtolowpenal.CustomStatusBarDecorator;
 import com.mobapphome.avtolowpenal.R;
-import com.mobapphome.avtolowpenal.Utils;
-import com.mobapphome.avtolowpenal.other.Constants;
 import com.mobapphome.avtolowpenal.other.PSubArticle;
 
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v7.widget.Toolbar;
-import android.text.Html;
-import android.util.Log;
-import android.content.Intent;
-import android.os.Bundle;
-import android.util.TypedValue;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.WindowManager;
-import android.widget.LinearLayout;
-import android.widget.TextView;
-
-public class ActivityPSubArtInfo extends ActionBarActivity {
+public class ActivityPSubArtInfo extends AppCompatActivity {
 
 
     AdView adView;

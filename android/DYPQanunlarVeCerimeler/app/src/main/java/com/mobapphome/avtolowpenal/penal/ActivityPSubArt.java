@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
@@ -33,7 +33,7 @@ import com.mobapphome.avtolowpenal.other.PSubArticle;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ActivityPSubArt extends ActionBarActivity implements AdapterView.OnItemClickListener {
+public class ActivityPSubArt extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
     ListView listView;
     List<PParArtSubArt> items = new LinkedList<>();

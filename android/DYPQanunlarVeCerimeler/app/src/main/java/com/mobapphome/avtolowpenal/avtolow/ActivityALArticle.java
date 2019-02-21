@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -14,7 +14,6 @@ import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -26,12 +25,7 @@ import com.mobapphome.avtolowpenal.R;
 import com.mobapphome.avtolowpenal.other.ALArticle;
 import com.mobapphome.avtolowpenal.other.Constants;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-
-public class ActivityALArticle extends ActionBarActivity {
+public class ActivityALArticle extends AppCompatActivity {
 
     AdView adView;
 

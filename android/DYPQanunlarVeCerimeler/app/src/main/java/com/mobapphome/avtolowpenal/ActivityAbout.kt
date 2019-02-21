@@ -1,23 +1,19 @@
 package com.mobapphome.avtolowpenal
 
-import com.google.android.gms.ads.AdListener
-import com.google.android.gms.ads.AdRequest
-import com.google.android.gms.ads.AdSize
-import com.google.android.gms.ads.AdView
-import com.mobapphome.avtolowpenal.other.Constants
-import com.mobapphome.mahandroidupdater.tools.MAHUpdaterController
-
-import android.support.v7.app.ActionBarActivity
-import android.support.v7.app.ActionBar
-import android.support.v7.widget.Toolbar
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import android.support.v7.widget.Toolbar
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.LinearLayout
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdSize
+import com.google.android.gms.ads.AdView
 
-class ActivityAbout : ActionBarActivity() {
+class ActivityAbout : AppCompatActivity() {
 
     internal var adView: AdView? = null
 

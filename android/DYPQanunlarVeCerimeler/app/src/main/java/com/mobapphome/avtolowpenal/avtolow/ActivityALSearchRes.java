@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
@@ -32,7 +32,7 @@ import com.mobapphome.avtolowpenal.other.Constants;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ActivityALSearchRes extends ActionBarActivity {
+public class ActivityALSearchRes extends AppCompatActivity {
 
     ListView listView;
     List<ALChapterArticle> items = new LinkedList<>();
