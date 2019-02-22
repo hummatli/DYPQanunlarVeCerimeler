@@ -1,6 +1,8 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'io.fabric'
+apply from: 'signing_confs/conf.gradle'
+
 
 repositories {
     maven { url 'https://maven.fabric.io/public' }
@@ -16,8 +18,8 @@ android {
         applicationId "com.mobapphome.avtolowpenal"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 21
-        versionName "2.1.0"
+        versionCode 23
+        versionName "2.1.2"
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
             targetCompatibility JavaVersion.VERSION_1_7
@@ -28,11 +30,13 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.defaultSigningConf
         }
 
         debug {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.defaultSigningConf
         }
     }
 

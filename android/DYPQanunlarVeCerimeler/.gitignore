@@ -9,3 +9,6 @@
 .DS_Store
 /build
 /captures
+
+
+/app/signing_confs/conf.gradle
